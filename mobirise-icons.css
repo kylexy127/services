@@ -70,7 +70,7 @@
   content: "\e90e";
 }
 .mbri-briefcase:before {
-  content: "\e90f";
+  content: url(https://icon-icons.com/icons2/2122/PNG/72/pill_medicine_medicines_medical_icon_131306.png);
 }
 .mbri-browse:before {
   content: "\e910";
@@ -184,7 +184,7 @@
   content: "\e934";
 }
 .mbri-growing-chart:before {
-  content: url(https://icon-icons.com/icons2/2388/PNG/72/covid_coronavirus_bacteria_virus_biology_healthcare_medical_icon_144691.png);
+  content: url(https://icon-icons.com/icons2/41/PNG/72/book_7087.png);
 }
 .mbri-hearth:before {
   content: "\e936";
@@ -232,7 +232,7 @@
   content: "\e944";
 }
 .mbri-like:before {
-  content: "\e945";
+  content: url(https://icon-icons.com/icons2/2216/PNG/72/augmented_reality_computer_developer_coding_programming_icon_134238.png);
 }
 .mbri-link:before {
   content: "\e946";
@@ -247,7 +247,7 @@
   content: "\e949";
 }
 .mbri-magic-stick:before {
-  content: "\e94a";
+  content: url(https://icon-icons.com/icons2/41/PNG/72/redBook_7072.png);
 }
 .mbri-map-pin:before {
   content: "\e94b";
@@ -310,7 +310,7 @@
   content: "\e95e";
 }
 .mbri-print:before {
-  content: "\e95f";
+  content: url(https://icon-icons.com/icons2/2122/PNG/72/pill_medicine_medicines_medical_icon_131306.png);
 }
 .mbri-protect:before {
   content: "\e960";
@@ -334,7 +334,7 @@
   content: "\e966";
 }
 .mbri-rocket:before {
-  content: "\e967";
+  content: url(https://icon-icons.com/icons2/603/PNG/72/legal_law_justice_balance_court_judge_icon-icons.com_55992.png);
 }
 .mbri-sad-face:before {
   content: "\e968";
@@ -346,10 +346,11 @@
   content: "\e96a";
 }
 .mbri-search:before {
-  content: "\e96b";
+  content: url(https://icon-icons.com/icons2/1586/PNG/72/3691806-ali-building-landmark-mosque-muhammad_108109.png);
 }
 .mbri-setting:before {
-  content: "\e96c";
+  content: url(https://icon-icons.com/icons2/2076/PNG/72/calendar_date_event_schedule_icon_127191.png
+);
 }
 .mbri-setting2:before {
   content: "\e96d";
