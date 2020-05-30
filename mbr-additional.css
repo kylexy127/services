@@ -1195,7 +1195,7 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   align-items: stretch;
-  background-color: #f4f8fa;
+  background-color: #fff;
 }
 .cid-qKSeIL708B .icon-block-top span {
   background-color: #188ef4;
@@ -1281,7 +1281,7 @@ body {
 .cid-qKSfgPX2iU {
   padding-top: 0px;
   padding-bottom: 90px;
-  background-color: #f4f8fa;
+  background-color: #fff;
 }
 .cid-qKSfgPX2iU .mbr-overlay {
   background: linear-gradient(90deg, #21b968, #1ec5bf);
@@ -1386,7 +1386,7 @@ body {
 .cid-qKShKWCbRl {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #f4f8fa;
+  background-color: #fff;
 }
 .cid-qKShKWCbRl .mbr-iconfont {
   color: #8d97ad;
@@ -1425,7 +1425,7 @@ body {
 .cid-qKSi69jkKQ {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #f4f8fa;
+  background-color: #fff;
 }
 .cid-qKSi69jkKQ .count {
   text-align: left;
@@ -1668,7 +1668,7 @@ body {
 .cid-qKSrnk6eVJ {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #f4f8fa;
+  background-color: #fff;
 }
 .cid-qKSrnk6eVJ .card {
   padding: 1rem 1rem 1rem 1rem;
@@ -1738,7 +1738,7 @@ body {
 .cid-qKSrquoh0F {
   padding-top: 0px;
   padding-bottom: 90px;
-  background-color: #f4f8fa;
+  background-color: #fff;
 }
 .cid-qKSrquoh0F .card {
   padding: 1rem 1rem 1rem 1rem;
@@ -1808,7 +1808,7 @@ body {
 .cid-qKSii1CMsD {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #f4f8fa;
+  background-color: #fff;
 }
 .cid-qKSii1CMsD .google-map {
   height: 25rem;
@@ -1895,7 +1895,7 @@ body {
 }
 .cid-qKSii1CMsD .social-list .mbr-iconfont-social {
   font-size: 1.2rem;
-  color: #fff;
+  color: #fffff;
 }
 .cid-qKSii1CMsD .social-list .mbr-iconfont:before {
   padding: .5rem;
